@@ -1,16 +1,16 @@
-### FRONT END PARA A API DE AUTENTICAÇÃO
+# FRONT END PARA A API DE AUTENTICAÇÃO
 
-## INSTALAÇÂO
+#### INSTALAÇÂO
 ```bash
     yarn install
 ```
 
-## EXECUÇÃO
+#### EXECUÇÃO
 ```bash
     yarn start
 ```
 
-## PÁGINAS
+#### PÁGINAS
 Raiz (login):
 > /
 
